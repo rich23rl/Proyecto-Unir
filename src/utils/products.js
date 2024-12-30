@@ -1,5 +1,5 @@
 const productos = [
-    //Clásicos
+    //libros Clásicos
     {
         id: 1,
         title: "La caída de la Casa Usher y otros relatos",
